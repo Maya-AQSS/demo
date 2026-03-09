@@ -62,7 +62,7 @@ Cada sección se va completando a medida que se resuelven los issues del backlog
 <!-- Añade o elimina los que correspondan -->
 
 **Frameworks / Librerías:**
-![Daniel](https://img.shields.io/badge/<Nombre>-<Color>?style=flat&logo=<logo>&logoColor=white)
+![Daniel](https://img.shields.io/badge/Daniel-<Color>?style=flat&logo=<logo>&logoColor=white)
 
 **Herramientas:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
