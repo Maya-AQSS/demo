@@ -8,20 +8,28 @@ Cada miembro añade su bloque al resolver el issue **F-01.4**.
 ## 📇 Directorio del Equipo
 
 
-### 📬 <Víctor Jiménez>
+### 📬 Víctor Jiménez
 
 | Medio          | Enlace / Valor                                      |
 |----------------|-----------------------------------------------------|
-| **GitHub**     | [@<victorjcanada>](https://github.com/<victorjcanada>)   |
-| **LinkedIn**   | [Ver perfil](https://linkedin.com/in/<tu-perfil>)  |
-| **Discord**    | `<v.jimenezcanada>#<0000>` *(servidor del equipo)*        |
-| **Email inst.**| `<v.jimenezcanada>@<edu.gva.es>`                 |
+| **GitHub**     | [@victorjcanada](https://github.com/victorjcanada)   |
+| **LinkedIn**   | -  |
+| **Discord**    | -        |
+| **Email inst.**| `v.jimenezcanada@edu.gva.es`                 |
 
 ## User Manual
 
-<!-- ============================================================
-     Rellenar los datos de conctaco compiando la estructura del ejemplo
-     ============================================================ -->
+     Rellenar los datos de conctaco compiando la estructura del ejemplo:
+
+     ### 📬 Nombre Completo
+
+| Medio           | Enlace / Valor                                       |
+|-----------------|------------------------------------------------------|
+| **GitHub**      | [@alias](https://github.com/alias)                  |
+| **LinkedIn**    | [Ver perfil](https://linkedin.com/in/perfil)        |
+| **Discord**     | `NombreDiscord#0000`  *(servidor del equipo)*        |
+| **Email inst.** | `usuario@dominio-institucional`                     |
+
 
 <!-- EJEMPLO DE ESTRUCTURA ESPERADA (no borrar este comentario):
 
