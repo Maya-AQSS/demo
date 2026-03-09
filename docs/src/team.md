@@ -52,3 +52,13 @@ Cada sección se va completando a medida que se resuelven los issues del backlog
 ...
 
 -->
+
+### 🧑‍💻 Cynthia Rubio
+
+| Campo      | Valor                          |
+|------------|-------------------------------|
+| **Nombre** | `Cynthia Rubio`        |
+| **Alias**  | `CynthiaRubio`       |
+| **Curso**  | `DAW`    |
+| **Rol**    | `Backend / Full Stack` |
+| **Grupo**  | `Desconocido`           |
