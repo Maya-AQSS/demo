@@ -18,11 +18,11 @@ Cada sección se va completando a medida que se resuelven los issues del backlog
 
 | Campo      | Valor               |
 |------------|---------------------|
-| **Nombre** | Nombre Completo     |
-| **Alias**  | alias-github        |
-| **Curso**  | DAW / DAM / ASIR    |
-| **Rol**    | Frontend / Backend  |
-| **Grupo**  | X                   |
+| **Nombre** | Santi               |
+| **Alias**  | sansellop10         |
+| **Curso**  | DAM                 |
+| **Rol**    | Frontend            |
+| **Grupo**  | Practicas           |
 
 #### 🎓 Formación                                  ← Issue F-01.2
 ...
@@ -30,8 +30,13 @@ Cada sección se va completando a medida que se resuelven los issues del backlog
 #### 🛠️ Stack Tecnológico                          ← Issue F-01.3
 ...
 
-#### 📅 Experiencia Previa                         ← Issue F-01.6
-...
+#### 📅 Experiencia Previa — <Santi>
+
+| Año         | Proyecto / Rol                              | Descripción breve                                     |
+|-------------|---------------------------------------------|-------------------------------------------------------|
+| `<2024>`    | `<Actividad Evaluable Modulo Programacion>` | <Aplicacion de gestion de reservas de hotel>          |
+| `<2025>`    | `<Actividad Evaluable Modulo SGE>`          | <Desarrollo de varios modulos de Odoo 14>             |
+| `<2025>`    | `<Actividad Evaluable PMDM>`                | <Desarrollo de un gestor de taresa en Android Studio> |
 
 #### 🎲 Hobbies e Intereses                        ← Issue F-01.7
 ...
