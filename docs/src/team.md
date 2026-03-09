@@ -41,8 +41,16 @@ Cada sección se va completando a medida que se resuelven los issues del backlog
 #### 🎲 Hobbies e Intereses                        ← Issue F-01.7
 ...
 
-#### 🎬 Recomendación Cultural                     ← Issue F-01.8
-...
+🎬 Recomendación Cultural — jedoar
+
+| Campo         | Valor                                          |
+|---------------|------------------------------------------------|
+| **Tipo**      | `Serie`   |
+| **Título**    | *Breaking Bad*                          |
+| **Género**    | `Drama`    |
+| **¿Por qué?** | "Breaking Bad" es una serie estadounidense creada por Vince Gilligan, emitida entre 2008 y 2013, ambientada en Albuquerque, Nuevo México. 
+La historia sigue a Walter White (Bryan Cranston), un profesor de química que, tras ser diagnosticado con un cáncer de pulmón inoperable, decide fabricar y vender metanfetamina para asegurar el bienestar económico de su familia.   |
+| **Puntuación**| `⭐⭐⭐⭐⭐`  |
 
 #### 💻 Lenguaje Favorito                          ← Issue F-01.9
 ...
