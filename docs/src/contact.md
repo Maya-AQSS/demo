@@ -7,9 +7,20 @@ Cada miembro añade su bloque al resolver el issue **F-01.4**.
 
 ## 📇 Directorio del Equipo
 
+
+### 📬 <Víctor Jiménez>
+
+| Medio          | Enlace / Valor                                      |
+|----------------|-----------------------------------------------------|
+| **GitHub**     | [@<victorjcanada>](https://github.com/<victorjcanada>)   |
+| **LinkedIn**   | [Ver perfil](https://linkedin.com/in/<tu-perfil>)  |
+| **Discord**    | `<v.jimenezcanada>#<0000>` *(servidor del equipo)*        |
+| **Email inst.**| `<v.jimenezcanada>@<edu.gva.es>`                 |
+
+## User Manual
+
 <!-- ============================================================
-     ZONA DE CONTACTOS — Cada miembro inserta su bloque aquí.
-     Sigue las instrucciones del issue F-01.4.
+     Rellenar los datos de conctaco compiando la estructura del ejemplo
      ============================================================ -->
 
 <!-- EJEMPLO DE ESTRUCTURA ESPERADA (no borrar este comentario):
