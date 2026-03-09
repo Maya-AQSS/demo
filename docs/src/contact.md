@@ -14,13 +14,13 @@ Cada miembro añade su bloque al resolver el issue **F-01.4**.
 
 <!-- EJEMPLO DE ESTRUCTURA ESPERADA (no borrar este comentario):
 
-### 📬 Nombre Completo
+### 📬 <Pau Muñoz Aleixandre>
 
-| Medio           | Enlace / Valor                                       |
-|-----------------|------------------------------------------------------|
-| **GitHub**      | [@alias](https://github.com/alias)                  |
-| **LinkedIn**    | [Ver perfil](https://linkedin.com/in/perfil)        |
-| **Discord**     | `NombreDiscord#0000`  *(servidor del equipo)*        |
-| **Email inst.** | `usuario@dominio-institucional`                     |
+| Medio          | Enlace / Valor                                      |
+|----------------|-----------------------------------------------------|
+| **GitHub**     | [@Pau-Munoz](https://github.com/Pau-Munoz)   |
+| **LinkedIn**   | [Ver perfil](https://linkedin.com/in/Ejemplo)  |
+| **Discord**    | `Pau#0000` *(servidor del equipo)*         |
+| **Email inst.**| `paumunale2@alu.edu.gva.es`                 |
 
 -->
