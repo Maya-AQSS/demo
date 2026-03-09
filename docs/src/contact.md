@@ -24,3 +24,11 @@ Cada miembro añade su bloque al resolver el issue **F-01.4**.
 | **Email inst.** | `usuario@dominio-institucional`                     |
 
 -->
+### 📬 Rodrigo Tarazón Buendía
+
+| Medio           | Enlace / Valor                                       |
+|-----------------|------------------------------------------------------|
+| **GitHub**      | [@RodraxTB](https://github.com/RodraxTB)                  |
+| **LinkedIn**    | [Ver perfil]()        |
+| **Discord**     | `NombreDiscord#0000`  *(servidor del equipo)*        |
+| **Email inst.** | `rodtarbue@alu.edu.gva.es`                     |

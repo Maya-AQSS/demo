@@ -24,8 +24,14 @@ Cada sección se va completando a medida que se resuelven los issues del backlog
 | **Rol**    | Frontend / Backend  |
 | **Grupo**  | X                   |
 
-#### 🎓 Formación                                  ← Issue F-01.2
-...
+#### 🎓 Formación — Rodrigo Tarazón Buendía
+
+- **Ciclo / Grado:** `ASIR`
+- **Centro:** `IES Isabel de Villena`
+- **Año de inicio:** `2024`
+- **Módulo favorito hasta ahora:** `Administración de Sistemas`
+- **¿Por qué elegiste esta carrera?**
+  > Elegí el mundo de la informática porque ví la oportunidad a las personas a través de las nuevas tecnologías.
 
 #### 🛠️ Stack Tecnológico                          ← Issue F-01.3
 ...
