@@ -45,9 +45,15 @@ features:
 
 ## 🤝 Nuestro Equipo
 
-> Los perfiles se irán añadiendo aquí a medida que cada miembro complete el issue **F-01.5**.
+<div class="team-card">
 
-<!-- ZONA DE TARJETAS DEL EQUIPO — cada miembro inserta su bloque aquí (Issue F-01.5) -->
+**<Tu emoji favorito>☕Aura <Tu Nombre>**
+
+*"Después de un café y un paseo, seguro que lo resuelvo."*
+
+🎯 **Especialidad:** `Bases De Datos`
+
+</div>
 
 ## 🗺️ ¿Por dónde empiezo?
 
