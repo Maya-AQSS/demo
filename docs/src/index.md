@@ -47,7 +47,7 @@ features:
 
 <div class="team-card">
 
-**<Tu emoji favorito>☕Aura <Tu Nombre>**
+**☕Aura**
 
 *"Después de un café y un paseo, seguro que lo resuelvo."*
 
